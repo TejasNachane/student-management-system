@@ -146,13 +146,5 @@ project/
    - Course information display
 
 ## Browser Compatibility
-- Chrome (recommended)
-- Firefox
-- Safari
-- Edge
-
-## Support
-For technical support or questions, please refer to the code documentation or contact the system administrator.
-
-## License
-This project is for educational purposes only.
+- Chrome
+- Or any 
