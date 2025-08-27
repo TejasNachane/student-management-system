@@ -1,6 +1,6 @@
 # Student Management System
 
-A comprehensive web-based Student Management System built with PHP, HTML, CSS, and JavaScript. The system provides role-based access for Admin, Faculty (Teachers and Principal), and Students.
+A  web-based Student Management System built with PHP, HTML, CSS, and JavaScript. The system provides role-based access for Admin, Faculty (Teachers and Principal), and Students.
 
 ## Features
 
@@ -120,31 +120,3 @@ project/
 - View enrolled courses
 - Check attendance records
 - View attendance statistics
-
-## Special Features
-
-1. **Password Management**
-   - Missing password field issue resolved - all user creation forms now include password fields
-   - First-time login password reset for faculty and students
-   - Secure password hashing
-
-2. **Attendance System**
-   - Only teachers can mark attendance
-   - Principals have view-only access to attendance
-   - Bulk attendance marking features
-   - Attendance statistics and reports
-
-3. **User-Friendly Interface**
-   - Modern, responsive design
-   - Real-time notifications
-   - Search functionality
-   - Intuitive navigation
-
-4. **Course Management**
-   - Course creation and management
-   - Student enrollment system
-   - Course information display
-
-## Browser Compatibility
-- Chrome
-- Or any 
